@@ -11,6 +11,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
+namespace PlayRecording
+{
     public class Startup
     {
         public Startup(IConfiguration configuration)
@@ -39,7 +41,8 @@ using Microsoft.Extensions.Options;
                 app.UseHsts();
             }
 
-            //app.UseHttpsRedirection();
+           // app.UseHttpsRedirection();
             app.UseMvc();
         }
     }
+}
