@@ -1,6 +1,5 @@
-# C# - List Messages Tutorial
-
-This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/how-to-list-messages#section-c).
+# C# - Code Snippets
+This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com]
 
 ## Setting up your new app within your FreeClimb account
 
