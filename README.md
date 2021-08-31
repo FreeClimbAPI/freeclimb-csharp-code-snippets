@@ -1,5 +1,5 @@
 # C# - Code Snippets
-This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com]
+This project serves as a guide to help you build an application with FreeClimb.
 
 ## Setting up your new app within your FreeClimb account
 
