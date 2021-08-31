@@ -5,15 +5,9 @@ This project serves as a guide to help you build an application with FreeClimb. 
 
 To get started using a FreeClimb account, follow the instructions [here](https://docs.freeclimb.com/docs/getting-started-with-freeclimb).
 
-## Setting up the Tutorial
+## Setting up the FreeCLimb SDK
 
-1. Install the nuget packages necessary using command:
-
-   ```bash
-   $ dotnet add package freeclimb-cs-sdk
-   ```
-
-2. Configure environment variables
+1. Configure environment variables
 
    | ENV VARIABLE            | DESCRIPTION                                                                                                                                                                             |
    | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
